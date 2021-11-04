@@ -1,4 +1,4 @@
-## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <h4> 🪐 My name is Lucas, I'm 24 years old, I'm a developer at the Assert laboratory and currently a Computer Engineering student at IFPB-Campina grande.</h4>
 
