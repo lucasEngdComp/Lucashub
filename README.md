@@ -20,17 +20,14 @@
 
 ### 👨🏻‍💻 Redes Sociais:
 
-<a href="https://www.linkedin.com/in/vinimedeiros13/" alt="Linkedin">
+<a href="https://www.linkedin.com/in/lucas-cordeiro-vieira-a22648161/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/vinimedeiros13/?hl=pt-br" alt="Instagram">
+<a href="https://www.instagram.com/lucas_ccvv/" alt="Instagram">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/watch?v=7zHfYLDQEvw" alt="Youtube">
-   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="vinimedeiros7@outlook.com" alt="Outlook">
-   <img src="https://img.shields.io/badge/outlook%20-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white"/>
+<a href="lucas.cordeiro@academico.ifpb.edu.br" alt="Gmail">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
   
 ### 🔧 Ferramentas:<br>
