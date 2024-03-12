@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I am currently in the ninth period of computer engineering at the Federal Institute of Paraíba. I love solving programming problems using concepts like data structure and algorithm complexity. I am very interested in web development, software engineering and IoT.
+Hey there, I'm a computer engineer from the Federal Institute of Paraíba. I love solving programming problems using concepts like data structure and algorithm complexity. I'm very interested in web development, software engineering and IoT.
 
 
 ## 🌐 Socials:
